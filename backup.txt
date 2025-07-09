@@ -164,12 +164,12 @@
 
   <!-- Propaganda piscante no canto direito -->
   <div id="propaganda-piscante" onclick="window.open('ads.html', '_blank')">
-    FIQUE RICHO RINDO!
+    CONFIRA
   </div>
 
   <!-- Propaganda piscante no canto esquerdo -->
   <div id="propaganda-piscante2" onclick="window.open('https://www.airbnb.com.br/r/saibvictore?s=6&t=061n0g', '_blank')">
-    ENCONTRE SUA RESSAIBO COMEDIANTE NO AIRBNB
+    COMECE NO AIRBNB HJ MESMO
   </div>
 
   <!-- JavaScript responsável pela lógica da página -->
